@@ -1,2 +1,2 @@
 # NFT Marketplace
-the project is a complete nft marketplace where users can buy/sell network native nfts.
+the is a complete nft marketplace project where users can buy/sell network native nfts.
